@@ -1,0 +1,11 @@
+Users
+id , name , email , password , job , image , gender
+
+Admins 
+id , name , email , password , job , image 
+
+Services 
+id , name , description , icon 
+
+Portofilo
+id , name , description , image , service_id , client , date , location , author , facebook , google , twitter 
